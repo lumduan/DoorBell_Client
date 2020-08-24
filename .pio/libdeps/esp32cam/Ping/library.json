@@ -1,0 +1,33 @@
+{
+    "authors": {
+        "name": "Joel Rosiene",
+        "url": "https://os.mbed.com/users/rosienej/"
+    },
+    "description": "Works with the parallax ping sensor. Uses a timer and interrupts to get the time and calculate the distance",
+    "examples": [
+        "https://os.mbed.com/users/Neel/code/Wifly_TCPEchoServer_Sensors/",
+        "https://os.mbed.com/users/denden/code/ROBOT_v01/",
+        "https://os.mbed.com/users/denden/code/ROBOT_v02/",
+        "https://os.mbed.com/teams/B/code/mbed_blinky/",
+        "https://os.mbed.com/users/DnPlas/code/SensorUltrasonico/",
+        "https://os.mbed.com/teams/2014/code/Chronograph_Sensor_ver1/",
+        "https://os.mbed.com/users/rosienej/code/FRDM-K46Z_APA102/",
+        "https://os.mbed.com/users/parkbanks/code/mbeddedNets/",
+        "https://os.mbed.com/teams/KRAI-2016/code/PIDsensorPING/",
+        "https://os.mbed.com/users/twmeares/code/4180_Final_Project/"
+    ],
+    "frameworks": "mbed",
+    "keywords": [
+        "parallax",
+        "ping",
+        "sensor",
+        "ultrasonic"
+    ],
+    "name": "Ping",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/rosienej/code/Ping/"
+    },
+    "version": "0.0.0+sha.6996f66161d7"
+}
